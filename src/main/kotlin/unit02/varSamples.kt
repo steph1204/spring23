@@ -1,7 +1,9 @@
+package unit02
+
 fun main () {
-    var name = "Stephanie"
-    var num = 7
-    var numLetter = "12"
+    val name = "Stephanie"
+    val num = 7
+    val numLetter = "12"
 
     println(name)
     println(num)
