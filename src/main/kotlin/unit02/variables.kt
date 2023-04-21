@@ -1,3 +1,5 @@
+package unit02
+
 fun main() {
     val myAge: Int = 23
     var averageAge: Double = (myAge + 30) / 2.0
